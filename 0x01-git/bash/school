@@ -1,2 +1,2 @@
 #!/bin/bash
-Money is needed 
+echo "The school is open!" 
